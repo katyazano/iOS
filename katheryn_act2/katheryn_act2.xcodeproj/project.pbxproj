@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		FB0221002F2999DC00E4CD72 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FB0220E12F2999DA00E4CD72 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FB0220E82F2999DA00E4CD72;
+			remoteInfo = katheryn_act2;
+		};
+		FB02210A2F2999DC00E4CD72 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = FB0220E12F2999DA00E4CD72 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = FB0220E82F2999DA00E4CD72;
+			remoteInfo = katheryn_act2;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		FB0220E92F2999DA00E4CD72 /* katheryn_act2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = katheryn_act2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB0220FF2F2999DC00E4CD72 /* katheryn_act2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = katheryn_act2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB0221092F2999DC00E4CD72 /* katheryn_act2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = katheryn_act2UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		FB0221112F2999DC00E4CD72 /* Exceptions for "katheryn_act2" folder in "katheryn_act2" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = FB0220E82F2999DA00E4CD72 /* katheryn_act2 */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		FB0220EB2F2999DA00E4CD72 /* katheryn_act2 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				FB0221112F2999DC00E4CD72 /* Exceptions for "katheryn_act2" folder in "katheryn_act2" target */,
+			);
+			path = katheryn_act2;
+			sourceTree = "<group>";
+		};
+		FB0221022F2999DC00E4CD72 /* katheryn_act2Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = katheryn_act2Tests;
+			sourceTree = "<group>";
+		};
+		FB02210C2F2999DC00E4CD72 /* katheryn_act2UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = katheryn_act2UITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FB0220E62F2999DA00E4CD72 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB0220FC2F2999DC00E4CD72 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB0221062F2999DC00E4CD72 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FB0220E02F2999DA00E4CD72 = {
+			isa = PBXGroup;
+			children = (
+				FB0220EB2F2999DA00E4CD72 /* katheryn_act2 */,
+				FB0221022F2999DC00E4CD72 /* katheryn_act2Tests */,
+				FB02210C2F2999DC00E4CD72 /* katheryn_act2UITests */,
+				FB0220EA2F2999DA00E4CD72 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FB0220EA2F2999DA00E4CD72 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FB0220E92F2999DA00E4CD72 /* katheryn_act2.app */,
+				FB0220FF2F2999DC00E4CD72 /* katheryn_act2Tests.xctest */,
+				FB0221092F2999DC00E4CD72 /* katheryn_act2UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FB0220E82F2999DA00E4CD72 /* katheryn_act2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FB0221122F2999DC00E4CD72 /* Build configuration list for PBXNativeTarget "katheryn_act2" */;
+			buildPhases = (
+				FB0220E52F2999DA00E4CD72 /* Sources */,
+				FB0220E62F2999DA00E4CD72 /* Frameworks */,
+				FB0220E72F2999DA00E4CD72 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				FB0220EB2F2999DA00E4CD72 /* katheryn_act2 */,
+			);
+			name = katheryn_act2;
+			packageProductDependencies = (
+			);
+			productName = katheryn_act2;
+			productReference = FB0220E92F2999DA00E4CD72 /* katheryn_act2.app */;
+			productType = "com.apple.product-type.application";
+		};
+		FB0220FE2F2999DC00E4CD72 /* katheryn_act2Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FB0221172F2999DC00E4CD72 /* Build configuration list for PBXNativeTarget "katheryn_act2Tests" */;
+			buildPhases = (
+				FB0220FB2F2999DC00E4CD72 /* Sources */,
+				FB0220FC2F2999DC00E4CD72 /* Frameworks */,
+				FB0220FD2F2999DC00E4CD72 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FB0221012F2999DC00E4CD72 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FB0221022F2999DC00E4CD72 /* katheryn_act2Tests */,
+			);
+			name = katheryn_act2Tests;
+			packageProductDependencies = (
+			);
+			productName = katheryn_act2Tests;
+			productReference = FB0220FF2F2999DC00E4CD72 /* katheryn_act2Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		FB0221082F2999DC00E4CD72 /* katheryn_act2UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FB02211A2F2999DC00E4CD72 /* Build configuration list for PBXNativeTarget "katheryn_act2UITests" */;
+			buildPhases = (
+				FB0221052F2999DC00E4CD72 /* Sources */,
+				FB0221062F2999DC00E4CD72 /* Frameworks */,
+				FB0221072F2999DC00E4CD72 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				FB02210B2F2999DC00E4CD72 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				FB02210C2F2999DC00E4CD72 /* katheryn_act2UITests */,
+			);
+			name = katheryn_act2UITests;
+			packageProductDependencies = (
+			);
+			productName = katheryn_act2UITests;
+			productReference = FB0221092F2999DC00E4CD72 /* katheryn_act2UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FB0220E12F2999DA00E4CD72 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					FB0220E82F2999DA00E4CD72 = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					FB0220FE2F2999DC00E4CD72 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = FB0220E82F2999DA00E4CD72;
+					};
+					FB0221082F2999DC00E4CD72 = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = FB0220E82F2999DA00E4CD72;
+					};
+				};
+			};
+			buildConfigurationList = FB0220E42F2999DA00E4CD72 /* Build configuration list for PBXProject "katheryn_act2" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FB0220E02F2999DA00E4CD72;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = FB0220EA2F2999DA00E4CD72 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FB0220E82F2999DA00E4CD72 /* katheryn_act2 */,
+				FB0220FE2F2999DC00E4CD72 /* katheryn_act2Tests */,
+				FB0221082F2999DC00E4CD72 /* katheryn_act2UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FB0220E72F2999DA00E4CD72 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB0220FD2F2999DC00E4CD72 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB0221072F2999DC00E4CD72 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FB0220E52F2999DA00E4CD72 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB0220FB2F2999DC00E4CD72 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FB0221052F2999DC00E4CD72 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		FB0221012F2999DC00E4CD72 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FB0220E82F2999DA00E4CD72 /* katheryn_act2 */;
+			targetProxy = FB0221002F2999DC00E4CD72 /* PBXContainerItemProxy */;
+		};
+		FB02210B2F2999DC00E4CD72 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = FB0220E82F2999DA00E4CD72 /* katheryn_act2 */;
+			targetProxy = FB02210A2F2999DC00E4CD72 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		FB0221132F2999DC00E4CD72 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = katheryn_act2/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tecmilenio.katheryn-act2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FB0221142F2999DC00E4CD72 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = katheryn_act2/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tecmilenio.katheryn-act2";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		FB0221152F2999DC00E4CD72 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FB0221162F2999DC00E4CD72 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FB0221182F2999DC00E4CD72 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tecmilenio.katheryn-act2Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/katheryn_act2.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/katheryn_act2";
+			};
+			name = Debug;
+		};
+		FB0221192F2999DC00E4CD72 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tecmilenio.katheryn-act2Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/katheryn_act2.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/katheryn_act2";
+			};
+			name = Release;
+		};
+		FB02211B2F2999DC00E4CD72 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tecmilenio.katheryn-act2UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = katheryn_act2;
+			};
+			name = Debug;
+		};
+		FB02211C2F2999DC00E4CD72 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tecmilenio.katheryn-act2UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = katheryn_act2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FB0220E42F2999DA00E4CD72 /* Build configuration list for PBXProject "katheryn_act2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FB0221152F2999DC00E4CD72 /* Debug */,
+				FB0221162F2999DC00E4CD72 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FB0221122F2999DC00E4CD72 /* Build configuration list for PBXNativeTarget "katheryn_act2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FB0221132F2999DC00E4CD72 /* Debug */,
+				FB0221142F2999DC00E4CD72 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FB0221172F2999DC00E4CD72 /* Build configuration list for PBXNativeTarget "katheryn_act2Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FB0221182F2999DC00E4CD72 /* Debug */,
+				FB0221192F2999DC00E4CD72 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FB02211A2F2999DC00E4CD72 /* Build configuration list for PBXNativeTarget "katheryn_act2UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FB02211B2F2999DC00E4CD72 /* Debug */,
+				FB02211C2F2999DC00E4CD72 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FB0220E12F2999DA00E4CD72 /* Project object */;
+}
